@@ -27,4 +27,3 @@ export class UserDetails extends Component {
 }
 
 
-{/* <div className="user" */ }
